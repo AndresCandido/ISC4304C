@@ -1,2 +1,2 @@
-# ISC4304c
+# ISC4304C
 Programming for Scientific Applications
